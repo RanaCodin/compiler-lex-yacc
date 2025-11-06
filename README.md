@@ -1,3 +1,8 @@
-Mini Compiler Project (Lex & Yacc)
-This project is a simple mini-compiler created for learning purposes. It uses Lex to detect tokens and Yacc to check grammar rules. The compiler reads an input program, analyzes its structure, and reports whether the syntax is valid.
-My role in the project: I organized the structure of the project, reviewed the grammar, and tested multiple input cases to ensure correctness.
+# Mini Compiler Project (Lex & Yacc)
+
+This project is a simple educational mini-compiler developed using **Lex (Flex)** and **Yacc (Bison)**. It reads input code, identifies tokens, checks the syntax based on grammar rules, and then reports whether the program is valid or contains errors.
+
+**What it does:**
+- Performs lexical analysis (token recognition).
+- Performs syntax analysis (grammar validation).
+- Provides clear success or error output.
