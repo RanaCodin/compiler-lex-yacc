@@ -1,0 +1,8 @@
+program ForExample; $
+
+begin ^
+  y := 3;
+  for y := 1 to 5 do
+    y := y * 2;
+end. 0
+{/* a comment */}
